@@ -1,5 +1,7 @@
 # Cron Builder
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-jpgbmr.github.io-58a6ff?style=flat-square)](https://jpgbmr.github.io/cron-builder/)
+
 Visual cron expression builder and explainer
 
 ## Tech Stack
